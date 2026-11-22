@@ -1,0 +1,22 @@
+[
+  {
+    "name": "1-gallery.jpg",
+    "query": "?shot=play&seed=1",
+    "note": "cover: the thief crossing the gallery, a guard's cone on him, CAM 01 above, two cases lit, the alarm meter at 24%"
+  },
+  {
+    "name": "2-alarm.jpg",
+    "query": "?shot=alarm&seed=1",
+    "note": "the meter past HUNTED at 78%: two guards turned and chasing, the house no longer quiet"
+  },
+  {
+    "name": "3-vault.jpg",
+    "query": "?shot=win&seed=1",
+    "note": "late night in the vault: two pieces lifted, the Ledger half worked on its pedestal, a cone at the thief's back"
+  },
+  {
+    "name": "4-title.jpg",
+    "query": "?shot=start&seed=1",
+    "note": "the title card over the quiet house, the night's clock at 11:47 PM"
+  }
+]
